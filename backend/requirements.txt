@@ -1,6 +1,6 @@
 Flask==3.0.0
 flask-cors==6.0.0
-gunicorn==21.2.0
+gunicorn==22.0.0
 Markdown==3.5.1
 python-frontmatter==1.1.0
 requests==2.31.0
