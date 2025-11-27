@@ -1,0 +1,49 @@
+.about {
+  max-width: 800px;
+}
+
+.about h1 {
+  margin-bottom: 2rem;
+}
+
+.about-intro {
+  font-size: 1.15rem;
+  margin-bottom: 3rem;
+}
+
+.about-intro p {
+  color: var(--color-text-secondary);
+}
+
+.about-section {
+  margin-bottom: 3rem;
+}
+
+.about-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Tech List */
+.tech-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 2rem;
+}
+
+.tech-category h3 {
+  font-size: 1rem;
+  color: var(--color-accent);
+  margin-bottom: 0.75rem;
+}
+
+.tech-category ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tech-category li {
+  color: var(--color-text-secondary);
+  padding: 0.25rem 0;
+  font-size: 0.95rem;
+}

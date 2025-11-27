@@ -1,0 +1,55 @@
+.project-detail {
+  max-width: 800px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: var(--color-text-secondary);
+  font-size: 0.95rem;
+}
+
+.back-link:hover {
+  color: var(--color-accent);
+}
+
+.project-header {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.project-header h1 {
+  margin-bottom: 1rem;
+}
+
+.project-header .project-tags {
+  margin-bottom: 1rem;
+}
+
+.project-meta {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.project-meta a {
+  font-size: 0.95rem;
+}
+
+.project-content {
+  line-height: 1.7;
+}
+
+.error-page {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.error-page h1 {
+  margin-bottom: 1rem;
+}
+
+.error-page p {
+  color: var(--color-text-secondary);
+  margin-bottom: 2rem;
+}

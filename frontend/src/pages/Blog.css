@@ -1,0 +1,56 @@
+.blog {
+  max-width: 800px;
+}
+
+.blog h1 {
+  margin-bottom: 0.5rem;
+}
+
+.page-intro {
+  margin-bottom: 3rem;
+  font-size: 1.1rem;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post-preview {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-preview:last-child {
+  border-bottom: none;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-text);
+  transition: color 0.2s ease;
+}
+
+.post-preview a:hover .post-title {
+  color: var(--color-accent);
+}
+
+.post-date {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-summary {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
