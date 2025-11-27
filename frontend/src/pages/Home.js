@@ -10,7 +10,7 @@ function Home() {
           Hi, I'm <span className="highlight">Paul Brower</span>
         </h1>
         <p className="hero-subtitle">
-          Software developer passionate about building things that make a difference.
+          Passionate about building things that make a difference.
         </p>
         <div className="hero-cta">
           <Link to="/projects" className="btn btn-primary">
