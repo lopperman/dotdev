@@ -27,8 +27,8 @@ function About() {
           Currently a Solution Delivery Manager at World Wide Technology, where I've
           spent over 11 years progressing through roles from Technical Project Manager
           to Senior Delivery Lead. I specialize in Agile methodologies, DevOps practices,
-          and the Microsoft Power Platform, helping organizations automate processes
-          and deliver software solutions efficiently.
+          Network Automation, and the Microsoft Power Platform, helping organizations
+          automate processes and deliver successful outcomes efficiently.
         </p>
       </section>
 
